@@ -1,0 +1,86 @@
+GOAL: Complete and learn up to #12 topic on Web Applications for Everybody (WA4E) 	lessons
+
+Start: September 10, 2023
+End: September 30, 2023
+Backlogs work worth: 30 Hours/4-5 weeks (Supposing 1 hour a day)
+
+Backlogs:
+1.	Introduction to Dynamic Web Content - 2
+(Visited it, this one will be a review instead)
+•	1-hour session
+o	Video 1 Web Applications and the Request/Response Cycle
+o	Video 2 Understanding Browser Developer Mode
+o	PPT Web-01-HTTP.ppt
+2.	HyperText Markup Language (HTML) - 2
+•	Two 1-hour sessions
+o	Video 1-2 HTML - HyperText Markup Language (Part 1-2)
+o	Video 3 HTML - Sample Code Walkthrough
+o	PPT Web-02-HTML.ppt
+3.	Cascading Style Sheets (CSS) - 3
+•	Seven 1-hour sessions
+o	Video 1-3 CSS - Cascading Style Sheets - (Part 1-3)
+o	Video 4-5 CSS - Sample Code Walkthrough (Part 1-2)
+o	PPT Web-03-CSS.ppt
+-------------------------------- WEEK 1 --------------------------------
+4.	Installing PHP and SQL - 2
+•	1-hour session
+o	Video 1 Installing MAMP on Macintosh for PHP/MySQL
+o	Video 2 Installing MAMP on Windows-10 for PHP/MySQL
+o	Video 3 Installing XAMPP on Windows for PHP/MySQL
+5.	Introduction to PHP - 2
+•	Three 1-hour sessions
+o	Video 1 PHP Language Overview - Part 1
+o	Video 2 Bonus: Rasmus Lerdorf Interview on Creating PHP
+o	Video 3 PHP Language - Variables and Constants - Part 2
+o	Video 4 PHP Language - Expressions - Part 3
+o	Video 5 PHP Language - Control Structures - Part 4
+o	PPT PHP-01-Overview.ppt
+-------------------------------- WEEK 2 --------------------------------
+6.	PHP Arrays - 2
+•	1-hour sessions
+o	Video 1-2 PHP Arrays - Part 1-2
+o	PPT PHP-02-Arrays.ppt
+
+7.	PHP Functions - 2
+•	1-hour session
+o	Video 1 PHP Functions - Part 1
+o	Video 2 PHP Functions - Part 2 - Scope and Modularity
+o	PPT PHP-03-Functions.ppt
+8.	PHP Forms - 2
+•	Four 1-hour sessions
+o	Video 1 PHP Forms (Part 1)
+o	Video 2 PHP Forms - GET and POST (Part 2)
+o	Video 3 PHP Forms - Input Types (Part 3)
+o	Video 4 PHP Forms - HTML Injection and Validation (Part 4)
+o	Video 5 PHP Forms - MVC - (Part 5)
+o	Video 6-8 PHP Forms Code Walkthrough - (Part 1-3)
+o	PPT PHP-04-Forms.ppt
+9.	Introduction to Structured Query Language (SQL) – 2
+(Learned it already, just a review)
+•	1-hour session
+o	Video 1-2 Single Table SQL - Part 1-2
+o	PPT SQL-01-MySQL.ppt
+-------------------------------- WEEK 3 --------------------------------
+10.	Introduction to Structured Query Language (SQL) – 2
+(Learned it already, just a review)
+•	Two 1-hour sessions
+o	Video 1 Data Modeling - Building a Data Model (Part 1)
+o	Video 2 Data Modeling - Representing Relationships (Part 2)
+o	Video 3 Data Modeling - Relationships in SQL (Part 3)
+o	Video 4 Data Modeling - Using Join (Part 4)
+o	Video 5 Data Modeling - Many-To-Many (Part 5)
+o	PPT SQL-02-MySQL-Design.ppt
+11.	PHP Objects - 2
+•	2-hour session
+o	Video 1 PHP Objects - Part 1
+o	Video 2 PHP Objects - Definition - Part 2
+o	Video 3 PHP Objects - Life Cycle - Part 3
+o	Video 4 PHP Objects - Inheritance - Part 4
+o	PPT PHP-05-Objects.ppt
+12.	PHP and MySQL - 2 
+•	Five 1-hour session
+o	Video 1-4 PHP MySQL and PDO - Part 1-4
+o	Video 5-7 PDO Code Walkthrough - Part 1-3
+o	PHP-06-MySQL-PDO.ppt
+-------------------------------- WEEK 4 --------------------------------
+
