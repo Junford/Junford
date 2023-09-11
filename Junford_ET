@@ -1,21 +1,10 @@
-GOAL: Complete and learn up to #12 topic on Web Applications for Everybody (WA4E) 	lessons
+GOAL: Complete and learn up to #12 topic on Web Applications for Everybody (WA4E) lessons
 
 Start: September 10, 2023
 End: September 30, 2023
 Backlogs work worth: 30 Hours/4-5 weeks (Supposing 1 hour a day)
 
 Backlogs:
-1.	Introduction to Dynamic Web Content - 2
-(Visited it, this one will be a review instead)
-•	1-hour session
-o	Video 1 Web Applications and the Request/Response Cycle
-o	Video 2 Understanding Browser Developer Mode
-o	PPT Web-01-HTTP.ppt
-2.	HyperText Markup Language (HTML) - 2
-•	Two 1-hour sessions
-o	Video 1-2 HTML - HyperText Markup Language (Part 1-2)
-o	Video 3 HTML - Sample Code Walkthrough
-o	PPT Web-02-HTML.ppt
 3.	Cascading Style Sheets (CSS) - 3
 •	Seven 1-hour sessions
 o	Video 1-3 CSS - Cascading Style Sheets - (Part 1-3)
@@ -84,3 +73,15 @@ o	Video 5-7 PDO Code Walkthrough - Part 1-3
 o	PHP-06-MySQL-PDO.ppt
 -------------------------------- WEEK 4 --------------------------------
 
+DONE:
+1.	Introduction to Dynamic Web Content - 2
+(Visited it, this one will be a review instead)
+•	1-hour session
+o	Video 1 Web Applications and the Request/Response Cycle
+o	Video 2 Understanding Browser Developer Mode
+o	PPT Web-01-HTTP.ppt
+2.	HyperText Markup Language (HTML) - 2
+•	Two 1-hour sessions
+o	Video 1-2 HTML - HyperText Markup Language (Part 1-2)
+o	Video 3 HTML - Sample Code Walkthrough
+o	PPT Web-02-HTML.ppt
